@@ -1,0 +1,33 @@
+
+Zadanie 4
+Klasy: Person, Address, Student, Professor
+
+Atrybuty klasy Person
+Atrybuty : Name (typ danych String - ciąg znaków)
+	   Surname (typ danych String - ciąg znaków)
+	   Age (typ danych Int - dane liczbowe)
+Metody: Introduce Yourself (typ danych String - ciąg znaków)
+
+
+Atrybuty klasy Address
+Atrybuty : Street (typ danych String - ciąg znaków)
+	   City (typ danych String - ciąg znaków)
+	   State (typ danych String - ciąg znaków)
+  	   Postal Code (typ danych Int - dane liczbowe)
+	   Country (typ danych String - ciąg znaków)
+
+Metody: Validate (typ danych String - ciąg znaków)
+	Output As Label (typ danych Boolean - prawda/fałasz)
+
+
+Atrybuty klasy Professor
+Atrybuty : Salary (typ danych Double - dane liczbowe)
+Brak metod
+	 
+
+Atrybuty klasy Student
+Atrybuty : Student Number (typ danych Int - dane liczbowe)
+	   Average Mark (typ danych Double - dane liczbowe)
+Metody: 
+	  Is Eligible To Enrol (typ danych Boolean - prawda/fałasz)
+	  Get Seminars Taken (typ danych Boolean - prawda/fałasz)
